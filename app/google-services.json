@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993478945263",
+    "project_id": "compasaparimcaappp",
+    "storage_bucket": "compasaparimcaappp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993478945263:android:7a1d2dbdae41ee17cb2e1a",
+        "android_client_info": {
+          "package_name": "com.pasa.parimca.appp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993478945263-3cuu22ngb4cnuor51hcge7ms7nvnhi32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtXjzc8LeoNRZNUz0LjZuSBnz0xbNq4uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993478945263-3cuu22ngb4cnuor51hcge7ms7nvnhi32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
